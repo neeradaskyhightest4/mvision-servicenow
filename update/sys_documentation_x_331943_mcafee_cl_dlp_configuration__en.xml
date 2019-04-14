@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="DLP Configuration" language="en" table="x_331943_mcafee_cl_dlp_configuration">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>DLP Configuration</label>
+            <language>en</language>
+            <name>x_331943_mcafee_cl_dlp_configuration</name>
+            <plural>DLP Configurations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-11 18:05:33</sys_created_on>
+            <sys_id>06fce238db303300cd2498e9db96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DLP Configuration</sys_name>
+            <sys_package display_value="McAfee Cloud Access Security Broker" source="x_331943_mcafee_cl">60657da9db203300cd2498e9db9619ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="McAfee Cloud Access Security Broker">60657da9db203300cd2498e9db9619ef</sys_scope>
+            <sys_update_name>sys_documentation_x_331943_mcafee_cl_dlp_configuration__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-11 18:05:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

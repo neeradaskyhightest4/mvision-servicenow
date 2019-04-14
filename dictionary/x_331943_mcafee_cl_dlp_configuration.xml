@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="DLP Configuration" max_length="40" name="x_331943_mcafee_cl_dlp_configuration" type="collection">
+        <element label="FieldName" max_length="80" name="fieldname" type="field_name"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="TableName" max_length="80" name="tablename" type="table_name"/>
+    </element>
+</database>
